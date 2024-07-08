@@ -61,7 +61,6 @@
 #text1 {
   font-size: 2.7vw;
   font-family: 'Sunday Sport', sans-serif;
-  text-align: justify;
   color: black;
   position: absolute;
   left: 63%;
@@ -73,19 +72,17 @@
 #text2 {
   font-size: 3vw;
   font-family: 'Sunday Sport', sans-serif;
-  text-align: justify;
   color: black;
   position: absolute;
   left: 4%;
   padding-top: 20%;
   z-index: 2;
-  max-width: 40%;
+  max-width: 48%;
 }
 
 #text3 {
   font-size: 3vw;
   font-family: 'Sunday Sport', sans-serif;
-  text-align: justify;
   color: black;
   position: absolute;
   left: 38%;
@@ -101,7 +98,7 @@
   color: black;
   position: absolute;
   left: 4%;
-  padding-top: 14%;
+  padding-top: 15%;
   z-index: 2;
   max-width: 55%;
 }
@@ -152,6 +149,7 @@
   width: 100%;
   position: relative;
   /*background: url('bomb\ zombie.png');*/
+  margin-top: 6%;
   background-size: cover;
 }
 
@@ -162,7 +160,7 @@
 
   /*background: url('zombies\ Karen.png');*/
   background-size: cover;
-  margin-top: 40px;
+  margin-top: 7%;
 }
 
 #zombieWondring {
@@ -171,7 +169,7 @@
   position: relative;
   /*background: url('zombies\ wondering.png');*/
   background-size: cover;
-  margin-top: 40px;
+  margin-top: 7%;
 }
 
 /*.ss {
